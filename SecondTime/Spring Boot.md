@@ -52,7 +52,7 @@
 ```
 3.编写一个测试类BootTest及main()函数  
 
-<img src="img/SecondTime/SpringBoot/spring_BootTest.png" width = "200" height = "230" alt="BootTest测试类" align=center />
+<img src="img/second/springboot//spring_BootTest.png" width = "200" height = "230" alt="BootTest测试类" align=center />
 
 ```java
 package com.trs.test;
@@ -91,6 +91,6 @@ public class BootTest {
 
 在Tomcat启动后，访问http://localhost:8080就可以看到Hello BootTest!出现在浏览器中了。  
 
-<img src="img/SecondTime/SpringBoot/spring_print.png" width = "260" height = "180" alt="显示" align=center />  
+<img src="img/second/springboot//spring_print.png" width = "260" height = "180" alt="显示" align=center />  
 
 项目地址：[https://github.com/sunm8705/SpringBootTest](https://github.com/sunm8705/SpringBootTest)

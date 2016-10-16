@@ -26,7 +26,7 @@
   
 分类：文字库、图片库、视频库、资源库。  
 
-<img src="img/ThirdTime/WCM/ThirdTime/WCM/library/wcm_create_library.png" width="120" height="190" align=center />
+<img src="img/third/wcm/library/wcm_create_library.png" width="120" height="190" align=center />
 
 ***有什么用？*** 
  
@@ -48,11 +48,11 @@
 
 * 选择站点：  
 
-<img src="img/ThirdTime/WCM/ThirdTime/WCM/site/wcm_create_site.png" width = "100%" height = "100%" align=center />  
+<img src="img/third/wcm/site/wcm_create_site.png" width = "100%" height = "100%" align=center />  
 
 * 创建站点：  
 
-<img src="img/ThirdTime/WCM/ThirdTime/WCM/site/wcm_create_site2.png" width = "50%" height = "50%" align=center />  
+<img src="img/third/wcm/site/wcm_create_site2.png" width = "50%" height = "50%" align=center />  
 
 ###4.栏目  
 
@@ -68,15 +68,15 @@
 
 * 在站点下创建栏目。  
 
-<img src="img/ThirdTime/WCM/ThirdTime/WCM/column/wcm_create_column.png" width = "100%" height = "100%" align=center />  
+<img src="img/third/wcm/column/wcm_create_column.png" width = "100%" height = "100%" align=center />  
 
-<img src="img/ThirdTime/WCM/ThirdTime/WCM/column/wcm_create_column2.png" width = "50%" height = "50%" align=center />
+<img src="img/third/wcm/column/wcm_create_column2.png" width = "50%" height = "50%" align=center />
 
 * 在父栏目下创建子栏目。 
 
 * 在栏目定义时，需要指定所使用的模板文件，分别控制概览页面和细览页面的表现。   
 
-<img src="img/ThirdTime/WCM/ThirdTime/WCM/column/wcm_set_template.png" width = "100%" height = "100%" align=center />
+<img src="img/third/wcm/column/wcm_set_template.png" width = "100%" height = "100%" align=center />
 
 ###5.文档  
 

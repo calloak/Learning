@@ -1,7 +1,7 @@
 #Season学习
 ###一、创建Maven项目  
 
-<img src="img/SecondTime/Season/season_create.png" alt="create" align=center /> 
+<img src="img/second/season/season_create.png" alt="create" align=center /> 
 * groupId 组名，公司或组织名，如trs.com.cn。
 * artifacted 应用名，当前Maven项目(SeasonTest)在组中的唯一id，如season-test。
 * Enable Auto-Import 自动导入pom.xml中设置的依赖到maven本地仓库。
@@ -90,18 +90,18 @@ public class HelloController extends Controller{
 
 访问 http://localhost:8080/hello/season，浏览器显示  
 
-<img src="img/SecondTime/Season/season_result.png" width = "280" height = "110" alt="create" align=center />
+<img src="img/second/season/season_result.png" width = "280" height = "110" alt="create" align=center />
 
 ###六、错误处理  
 1. main()函数只能执行一次，再次执行则报错，如图：  
 
-<img src="img/SecondTime/Season/season_error1.jpg" alt="error1" align=center />
+<img src="img/second/season/season_error1.jpg" alt="error1" align=center />
 
 ***原因：*** *没有意识到多次执行main()函数会开启多个端口，导致互相影响。*
 
 2.Maven插件的clean-install命令无法使用，无法正常install打包项目，如图：  
 
-<img src="img/SecondTime/Season/season_error2.jpg" alt="error2" align=center />  
+<img src="img/second/season/season_error2.jpg" alt="error2" align=center />  
 
 ***原因：*** *根据错误提示意识到可能是jdk原因，多次更换jdk版本后依然报错，最后替换IDEA自带jdk版本，解决了此问题。猜想根本原因是本地jdk，jre文件安装出现了问题。*  
 
