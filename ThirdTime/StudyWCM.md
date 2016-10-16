@@ -26,7 +26,7 @@
   
 分类：文字库、图片库、视频库、资源库。  
 
-<img src="img/third/wcm/library/wcm_create_library.png" width="120" height="190" align=center />
+<img src="../img/third/wcm/library/wcm_create_library.png" width="120" height="190" align=center />
 
 ***有什么用？*** 
  
@@ -48,11 +48,11 @@
 
 * 选择站点：  
 
-<img src="img/third/wcm/site/wcm_create_site.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/site/wcm_create_site.png" width = "100%" height = "100%" align=center />  
 
 * 创建站点：  
 
-<img src="img/third/wcm/site/wcm_create_site2.png" width = "50%" height = "50%" align=center />  
+<img src="../img/third/wcm/site/wcm_create_site2.png" width = "50%" height = "50%" align=center />  
 
 ###4.栏目  
 
@@ -68,15 +68,15 @@
 
 * 在站点下创建栏目。  
 
-<img src="img/third/wcm/column/wcm_create_column.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/column/wcm_create_column.png" width = "100%" height = "100%" align=center />  
 
-<img src="img/third/wcm/column/wcm_create_column2.png" width = "50%" height = "50%" align=center />
+<img src="../img/third/wcm/column/wcm_create_column2.png" width = "50%" height = "50%" align=center />
 
 * 在父栏目下创建子栏目。 
 
 * 在栏目定义时，需要指定所使用的模板文件，分别控制概览页面和细览页面的表现。   
 
-<img src="img/third/wcm/column/wcm_set_template.png" width = "100%" height = "100%" align=center />
+<img src="../img/third/wcm/column/wcm_set_template.png" width = "100%" height = "100%" align=center />
 
 ###5.文档  
 
@@ -96,13 +96,13 @@
 
 -创建文档：  
 
-<img src="img/ThirdTime/WCM/document/wcm_create_document.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/document/wcm_create_document.png" width = "100%" height = "100%" align=center />  
 
-<img src="img/ThirdTime/WCM/document/wcm_create_document2.png" width = "100%" height = "100%" align=center />
+<img src="../img/third/wcm/document/wcm_create_document2.png" width = "100%" height = "100%" align=center />
 
 -显示文档：  
 
-<img src="img/ThirdTime/WCM/document/wcm_display_document.png" width = "100%" height = "100%" align=center />
+<img src="../img/third/wcm/document/wcm_display_document.png" width = "100%" height = "100%" align=center />
 
 * 文档只能创建在普通栏目下。  
 
@@ -132,9 +132,9 @@
 
 -创建模板：  
 
-<img src="img/ThirdTime/WCM/template/wcm_create_template.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/template/wcm_create_template.png" width = "100%" height = "100%" align=center />  
 
-<img src="img/ThirdTime/WCM/template/wcm_create_template2.png" width = "100%" height = "100%" align=center />
+<img src="../img/third/wcm/template/wcm_create_template2.png" width = "100%" height = "100%" align=center />
 
 ###7.视图  
 
@@ -152,23 +152,23 @@
 
 - 视图栏创建视图：  
 
-<img src="img/ThirdTime/WCM/view/wcm_create_view_by_view.png" width = "100%" height = "100%" align=center />
+<img src="../img/third/wcm/view/wcm_create_view_by_view.png" width = "100%" height = "100%" align=center />
 
 - 元数据栏创建视图：  
 
-<img src="img/ThirdTime/WCM/view/wcm_create_view_by_metadata.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/view/wcm_create_view_by_metadata.png" width = "100%" height = "100%" align=center />  
 
-<img src="img/ThirdTime/WCM/view/wcm_create_view_by_metadata2.png" width = "70%" height = "70%" align=center />  
+<img src="../img/third/wcm/view/wcm_create_view_by_metadata2.png" width = "70%" height = "70%" align=center />  
 
 * 将视图绑定到栏目：视图绑定到栏目上，才能通过置标来取值。  
 
-<img src="img/ThirdTime/WCM/view/wcm_binding_view.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/view/wcm_binding_view.png" width = "100%" height = "100%" align=center />  
 
-<img src="img/ThirdTime/WCM/view/wcm_binding_view2.png" width = "50%" height = "50%" align=center />  
+<img src="../img/third/wcm/view/wcm_binding_view2.png" width = "50%" height = "50%" align=center />  
 
 * 新建栏目资源：在资源栏目下，选择"新建一条记录"，资源相当于一条数据，需要外部导入，或者手写。  
 
-<img src="img/ThirdTime/WCM/view/wcm_create_record.png" width = "100%" height = "100%" align=center /> 
+<img src="../img/third/wcm/view/wcm_create_record.png" width = "100%" height = "100%" align=center /> 
 
 ###8.元数据  
 
@@ -184,37 +184,37 @@
 
 * 选择元数据：资源库->元数据。  
 
-<img src="img/ThirdTime/WCM/metadata/wcm_choose_metadata.png" width = "100%" height = "100%" align=center />   
+<img src="../img/third/wcm/metadata/wcm_choose_metadata.png" width = "100%" height = "100%" align=center />   
 
 * 创建元数据：新建一个元数据。  
 
-<img src="img/ThirdTime/WCM/metadata/wcm_create_metadata.png" width = "70%" height = "70%" align=center />    
+<img src="../img/third/wcm/metadata/wcm_create_metadata.png" width = "70%" height = "70%" align=center />    
 
 * 显示元数据列表：  
 
-<img src="img/ThirdTime/WCM/metadata/wcm_display_metadata.png" width = "50%" height = "50%" align=center />    
+<img src="../img/third/wcm/metadata/wcm_display_metadata.png" width = "50%" height = "50%" align=center />    
 
 * 对元数据进行操作：点击需要操作的元数据，可以进行如下操-生成视图、修改元数据、删除元数据。  
 
-<img src="img/ThirdTime/WCM/metadata/wcm_update_metadata.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/metadata/wcm_update_metadata.png" width = "100%" height = "100%" align=center />  
 
 * 字段管理：  
 
 -字段列表：在元数据列表区，双击一个元数据图标，进入这个元数据字段管理界面。　　
 
-<img src="img/ThirdTime/WCM/metadata/field/wcm_choose_field.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/metadata/field/wcm_choose_field.png" width = "100%" height = "100%" align=center />  
 
 -新建元数据字段  
 
-<img src="img/ThirdTime/WCM/metadata/field/wcm_create_field.png" width = "50%" height = "50%" align=center />    
+<img src="../img/third/wcm/metadata/field/wcm_create_field.png" width = "50%" height = "50%" align=center />    
 
 -显示字段：新建一个元数据字段以后，将在元数据对象的物理表中同步新建一个数据库物理字段。  
 
-<img src="img/ThirdTime/WCM/metadata/field/wcm_display_field.png" width = "70%" height = "70%" align=center />    
+<img src="../img/third/wcm/metadata/field/wcm_display_field.png" width = "70%" height = "70%" align=center />    
 
 -点击需要操作的字段，可以进行如下操作-修改字段、删除字段。  
 
-<img src="img/ThirdTime/WCM/metadata/field/wcm_update_field.png" width = "70%" height = "70%" align=center />    
+<img src="../img/third/wcm/metadata/field/wcm_update_field.png" width = "70%" height = "70%" align=center />    
 
 ###9.置标概念  
 
@@ -284,17 +284,17 @@
 
 在文字库下创建站点"sunm产品站点"。  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_site.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_create_site.png" width = "100%" height = "100%" align=center />  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_site2.png" width = "50%" height = "50%" align=center />
+<img src="../img/third/wcm/product_site/wcm_create_site2.png" width = "50%" height = "50%" align=center />
 
 ###2.创建模板  
 
 * 在"sunm产品站点"下，选择"模板"菜单，并点击"新建一个模板"。  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_template.png" width = "100%" height = "100%" align=center />   
+<img src="../img/third/wcm/product_site/wcm_create_template.png" width = "100%" height = "100%" align=center />   
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_template2.png" width = "70%" height = "70%" align=center />
+<img src="../img/third/wcm/product_site/wcm_create_template2.png" width = "70%" height = "70%" align=center />
 
 * 创建概览模板：  
 
@@ -529,43 +529,43 @@
 
 * 在站点下创建栏目  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_column.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_create_column.png" width = "100%" height = "100%" align=center />  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_column2.png" width = "50%" height = "50%" align=center /> 
+<img src="../img/third/wcm/product_site/wcm_create_column2.png" width = "50%" height = "50%" align=center /> 
 
 * 在栏目定义时，需要指定所使用的模板文件，分别控制首页模板和细览模板的表现。  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_set_template.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_set_template.png" width = "100%" height = "100%" align=center />  
 
 * 在站点上指定首页模板  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_designated_template.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_designated_template.png" width = "100%" height = "100%" align=center />  
 
 ###4.创建文档  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_site.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_create_site.png" width = "100%" height = "100%" align=center />  
 
 * 填写文档标题、文档类型、文档内容，并保存发布。  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_document.png" width = "100%" height = "100%" align=center /> 
+<img src="../img/third/wcm/product_site/wcm_create_document.png" width = "100%" height = "100%" align=center /> 
 
-<img src="img/ThirdTime/WCM/product_site/wcm_create_document2.png" width = "100%" height = "100%" align=center /> 
+<img src="../img/third/wcm/product_site/wcm_create_document2.png" width = "100%" height = "100%" align=center /> 
 
 * 显示文档列表  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_display_document.png" width = "70%" height = "70%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_display_document.png" width = "70%" height = "70%" align=center />  
 
 ###5.预览这个站点  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_preview_site.png" width = "100%" height = "100%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_preview_site.png" width = "100%" height = "100%" align=center />  
 
 * 显示产品列表  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_product_list.png" width = "70%" height = "70%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_product_list.png" width = "70%" height = "70%" align=center />  
 
 * 显示产品详情  
 
-<img src="img/ThirdTime/WCM/product_site/wcm_product_content.png" width = "70%" height = "70%" align=center />  
+<img src="../img/third/wcm/product_site/wcm_product_content.png" width = "70%" height = "70%" align=center />  
 
 项目地址：[http://127.0.0.1:8080/preview/sunmwcm/](http://127.0.0.1:8080/preview/sunmwcm/)  
 
